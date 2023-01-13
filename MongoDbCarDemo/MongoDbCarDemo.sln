@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiControl", "GuiControl\GuiControl.csproj", "{463AF4CC-DD47-4F44-97D2-986AB4133C29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiClient", "GuiControl\GuiClient.csproj", "{463AF4CC-DD47-4F44-97D2-986AB4133C29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleControl", "ConsoleControl\ConsoleControl.csproj", "{E821F282-FA9D-4456-9D1A-18C1F85FF872}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleControl\ConsoleClient.csproj", "{E821F282-FA9D-4456-9D1A-18C1F85FF872}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{88F0B014-9A7D-42ED-9F6E-23D75C03F26B}"
 EndProject
